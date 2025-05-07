@@ -1,4 +1,4 @@
-# Report Analysis Notebook
+# Gdp-infant-mortality-analysis
 
 This repository contains the Python notebook used for the analysis in the report titled "The Effect of Economic Growth on Health: An Analysis of GDP per Capita and Infant Mortality Rate".
 
